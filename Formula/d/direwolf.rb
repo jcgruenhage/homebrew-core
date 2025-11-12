@@ -1,8 +1,8 @@
 class Direwolf < Formula
   desc "Software \"soundcard\" AX.25 packet modem/TNC and APRS encoder/decoder"
   homepage "https://github.com/wb2osz/direwolf"
-  url "https://github.com/wb2osz/direwolf/archive/refs/tags/1.8.tar.gz"
-  sha256 "20af50f397ce492a1e42889a1e2eba54581334c0754adae8e196433998a44e3a"
+  url "https://github.com/wb2osz/direwolf/archive/refs/tags/1.8.1.tar.gz"
+  sha256 "b7b608cf2c7f641aa5adbc1208f50e9779f7e7648344446a0fd6944495bea615"
   license all_of: [
     "GPL-2.0-or-later",
     "ISC", # external/misc/{strlcpy.c,strlcat.c} (Linux)
